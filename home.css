@@ -100,19 +100,7 @@ body {
     color: black;
 }
 
-.intro-image {
-    flex: 1 1 45%;  /* Increased from 35% to 45% */
-    text-align: center;
-}
 
-
-#heart {
-    width: 100%;         /* Take full width of the container */
-    max-width: 500px;    /* Increase this number for a bigger image */
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
 
 .hero {
     text-align: center;
@@ -122,7 +110,7 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    height: 700px;
+    height: 450px;
     width: 100%;
     display: flex;
     flex-direction: column;
